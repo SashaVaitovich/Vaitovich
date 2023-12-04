@@ -57,6 +57,7 @@
 #     print(f"Товар: {product['name']}, Количество: {product['quantity']}, "
 #           f"Цена: {product['price']}, Дата поступления: {product['date']}")
 
+
 # task 4
 
 # import json
