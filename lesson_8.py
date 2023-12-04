@@ -140,3 +140,4 @@
 # my_list = [1, 2, 3, 4, 5]
 # element_to_remove = int(input("Введите элемент для удаления: "))
 # remove_element(my_list, element_to_remove)
+
