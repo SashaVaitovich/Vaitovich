@@ -39,15 +39,15 @@
 
 # task 4
 
-# numbers = [16, 19, 42, 8, 122]
-# result_list = []
-#
-# for num in numbers:
-#     result_list.append(num)
-#     if num % 2 == 0:
-#         reversed_num = int(str(num)[::-1])
-#         result_list.append(reversed_num)
-# print("Результат:", result_list)
+numbers = [16, 19, 42, 8, 122]
+result_list = []
+
+for num in numbers:
+    result_list.append(num)
+    if num % 2 == 0:
+        reversed_num = int(str(num)[::-1])
+        result_list.append(reversed_num)
+print("Результат:", result_list)
 
 
 
