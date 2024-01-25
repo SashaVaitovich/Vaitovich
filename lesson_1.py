@@ -40,6 +40,7 @@ print(hours, "час")
 print(minutes, "минут")
 print(seconds, "секунд")
 
+
 # task 9
 cash = 361
 denominations_1 = 100
